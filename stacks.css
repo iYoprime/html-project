@@ -1,0 +1,38 @@
+.a{
+    color: red;
+    margin-left: 15px;
+}
+.b{
+    color: black;
+    text-size-adjust: 10px
+    ;
+}
+.c{
+    color: #16a085;
+    align-items: center;
+    margin-left: 80px;
+}
+.m{
+    color:#2980b9 ;
+    align-items: center;
+    margin-left: 90px
+    ;
+}
+.g{
+    background-color:#e74c3c;
+    align-items: center;
+    margin-left: 90px;
+}
+.t{
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width: 300px;
+    border-style: ridge;
+    margin-left: 600px;
+    border: 3px solid;
+border-radius: 30px;    
+}
